@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.time.chrono.JapaneseEra;
 
 public class Start extends JFrame implements Constant, ActionListener {
     private JPanel startPanel;

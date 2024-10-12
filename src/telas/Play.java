@@ -209,7 +209,6 @@ public class Play extends JFrame implements ActionListener, Constant {
         if(steps_counter == 0){
             defEmpate();
             gameOver = true;
-            return;
         }
 
     }

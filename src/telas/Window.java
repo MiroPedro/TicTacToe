@@ -11,7 +11,7 @@ public class Window extends JFrame implements Constant{
         setResizable(false);
         setLocationRelativeTo(null);
 
-        Start start = new Start();
+        new Start();
         Play play = new Play();
         play.executar();
 
